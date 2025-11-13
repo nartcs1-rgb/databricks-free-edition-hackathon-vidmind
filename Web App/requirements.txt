@@ -1,0 +1,15 @@
+# Web framework
+streamlit
+
+# System / utility
+requests
+uuid
+
+# OpenAI SDK
+openai
+
+# Databricks Vector Search SDK
+databricks-vectorsearch
+
+# Optional (recommended)
+databricks-sdk

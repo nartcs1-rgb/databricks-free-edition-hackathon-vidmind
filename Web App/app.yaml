@@ -1,0 +1,6 @@
+command: ['streamlit', 'run', 'app.py']
+env:
+  - name: 'DATABRICKS_TOKEN'
+    value: '<TOKEN HERE>'
+  - name: 'VOLUME_PATH'
+    valueFrom: volume
